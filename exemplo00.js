@@ -1,1 +1,1 @@
-console.log("Olá Brasil! Palmeiras não tem mundial!");
+console.log("olá Brasil! Palmeiras não tem mundial!");
