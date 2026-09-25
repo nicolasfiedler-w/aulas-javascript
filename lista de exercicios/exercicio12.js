@@ -5,8 +5,11 @@ for (let nota of notas) {
 if (nota>=7) {
    
         console.log(`Nota = ${nota}, aprovado.`)
+        
     }
-}
+   
 }
 
-console.log(aprovados())
+}
+
+aprovados()

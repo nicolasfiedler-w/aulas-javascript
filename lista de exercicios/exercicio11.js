@@ -1,4 +1,4 @@
-const roleta = sorteio => { let giros= 0 
+const roleta = () => { let giros= 0 
     do {
         console.log('Girando a roleta...')
         giros = giros + 1

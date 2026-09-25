@@ -1,12 +1,12 @@
-const compra = (preços) => {let total = 0
+const compra = (precos) => {let total = 0
 
-for (let preço of preços) {
-    total= total + preço
+for (let preco of precos) {
+    total= total + preco
 }
 return total;
 
 }
 
-const listaPreços = [120,100,67,200]
+const listaPrecos = [120,100,67,200]
 
-console.log(compra(listaPreços))
+console.log(compra(listaPrecos))
