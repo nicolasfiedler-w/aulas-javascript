@@ -1,0 +1,4 @@
+const elementosFake = [
+    {id: 1, tagName: 'DIV', style: {color: 'blue', display: 'flex'}, classList: ['container','active']},
+    
+]
